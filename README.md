@@ -1,2 +1,8 @@
 # OperatingPlatforms
  
+ 
+Justin M. Dougherty
+Southern New Hampshire University
+CS 230 Operating Platforms
+
+The Client was gaming Room. The client had a game they called Draw it or Lose it. Originally Published for Android. The client wished to expand and improve this game and understand the limitations of it moving forward. The way forward in development for documenting was to consider every possibility. Doing extensive research on the strenghths and weaknesses of each platform had to offer as well as the differing options. The process of working through a design document was beneficial in keeping a tidy and organized approach to the tasks as they arose throughout the process. If I chose one part of this document to be improved, it would be the recommendations, they had a lot of more room to improve. I had an understanding to make each component work on each platform but had difficulty making recommendations based on. When intepreting the users needs and implementing them into the design I applied the functional goal of the game and made the code as simple, reusable as possible to consider the flexibility throughout the design process and the possibility to expand the process across platforms.  It is important to consider the users needs in design because there will be no product without the user, the project will not exist. In this line of work there is a lot of room for creativity but if it is not flexible there is no point if the client decides to shift to a more user friendly platform. I approached the software design with that in mind. If the  program  needed to move immediately to another platform what could we transfer to save labor hours. As well as considered the constraints associated to these cross platform moves.
